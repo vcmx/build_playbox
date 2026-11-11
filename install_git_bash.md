@@ -5,7 +5,7 @@ Install Git to run local version control, which tracks changes to your files, sa
 ```
 git --version
 ```
-2. **Download Git**. If Git is not present, open browser and go to [git-scm.com](https://git-scm.com).
+2. If Git is not present, open browser and go to [git-scm.com](https://git-scm.com).
 3. Download “Git for Windows” and run the installer.
 4. Accept default options and finish the installation.
 5. Confirm that Git is installed using Step 1.
