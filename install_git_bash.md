@@ -1,4 +1,6 @@
 # Install Git for Windows
+Install Git to run local version control, which tracks changes to your files, saves project history, and connects your machine to cloud platforms like GitHub. Even if you use VS Code or GitHub, these tools rely on a local Git installation to manage code on your hard drive.
+
 1. **Check if Git is installed**. Open PowerShell in Administrator mode and run:
 ```
 git --version
